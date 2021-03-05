@@ -14,3 +14,5 @@ pip config --user set global.trusted-host flogistix.github.io
 ```
 
 Currently, adding a new package to the repo is a manual process.  Either review the simple html of this repo and follow the same pattern, and/or review this [blog-post](https://www.freecodecamp.org/news/how-to-use-github-as-a-pypi-server-1c3b0d07db2/)
+
+Happy Coding!
