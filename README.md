@@ -9,7 +9,7 @@ You can use pip to install packages from this repo with the following syntax:
 If you want to leave off the `--extra-index-url` flag, you can run the following commands to add it to your pip config:
 
 ```
-pip config --user set global.index-url https://flogistix.github.io/python_packages
+pip config --user set global.extra-index-url https://flogistix.github.io/python_packages
 pip config --user set global.trusted-host flogistix.github.io
 ```
 
