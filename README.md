@@ -1,6 +1,6 @@
 # python_packages
 
-This is the Flogistix python package repo.  
+This is the Flogistix python package index.  
 
 You can use pip to install packages from this repo with the following syntax:  
 
